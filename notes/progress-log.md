@@ -5,3 +5,4 @@ Done:
 - [x] Code for the navbar component
 - [x] Categories on the front page (static)
 - [x] List properties on the front page (static)
+- [x] Detail page for properties (static)

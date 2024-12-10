@@ -6,3 +6,4 @@ Done:
 - [x] Categories on the front page (static)
 - [x] List properties on the front page (static)
 - [x] Detail page for properties (static)
+- [x] Landlord page (static)

@@ -7,3 +7,4 @@ Done:
 - [x] List properties on the front page (static)
 - [x] Detail page for properties (static)
 - [x] Landlord page (static)
+- [x] My reservations page (static)
